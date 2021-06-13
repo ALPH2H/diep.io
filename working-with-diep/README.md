@@ -65,7 +65,7 @@ Don't mind the yellow selection. We can see a few things that diep.io does here:
 
 And many more.
 
-With this knowledge, scripting becomes easier, as we won't see the alert box saying the game is modified if we modify it propertly. For instance, if you wish to modify functions the game checks code of, do not modify them directly - apply a proxy. The game's code can also be modified in such a way that these checks always succeed so that they don't trigger anything.
+With this knowledge, scripting becomes easier, as we won't see the alert box saying the game is modified if we modify it properly. For instance, if you wish to modify functions the game checks code of, do not modify them directly - apply a proxy. The game's code can also be modified in such a way that these checks always succeed so that they don't trigger anything.
 
 If you want to work with WASM, take a look at [how to convert WASM to JS with binaryen](https://github.com/WebAssembly/binaryen) and [how to edit WASM in browser with Wail](https://github.com/Qwokka/WAIL).
 
